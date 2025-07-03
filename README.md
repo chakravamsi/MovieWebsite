@@ -32,4 +32,4 @@ A sleek and fully responsive **Movie Website** built using **React + Vite** that
 
 ---
 
-
+./Desktop1.png
