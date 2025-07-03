@@ -33,3 +33,8 @@ A sleek and fully responsive **Movie Website** built using **React + Vite** that
 ---
 
 ![Movie Website Screenshot](./Desktop1.png)
+
+---
+
+![Movie Website Screenshot](./Desktop2.png)
+
